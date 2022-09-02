@@ -1,2 +1,2 @@
 # smile_detector by shaka the programmer
-# coding is fun
+ this is the begining of fun with codes
